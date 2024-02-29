@@ -1,0 +1,19 @@
+.subtext {
+  padding-top: -2rem;
+  color: grey;
+}
+label {
+  font-size: small;
+  font-weight: bold;
+  color: grey;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+ul li {
+  list-style: none;
+}
